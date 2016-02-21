@@ -1,5 +1,5 @@
 
-#Main function 
+# Main function 
 	Program loads units from units.txt file into units list.
 
 	Enter while loop
@@ -16,7 +16,7 @@
 		else notify user input is invalid. 
 
 
-#AddUnit(units) function
+# AddUnit(units) function
 	try to do the following
 		prompt user to enter unit title
 
